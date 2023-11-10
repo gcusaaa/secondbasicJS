@@ -80,15 +80,8 @@
 let numb1 = "3"
 let numb2 = "4"
 console.log(
-    eval('${numb1} + ${numb1}'));
+    eval('${numb1} + ${numb2}'));
 console.log(parseInt(numb1))
-
-
-
-
-
-
-
 
 
 
